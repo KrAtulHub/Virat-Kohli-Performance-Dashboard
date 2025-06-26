@@ -1,10 +1,8 @@
 # 🏏 Virat Kohli Performance Dashboard (Power BI)
 
 ## 📷 Preview
+![image](https://github.com/user-attachments/assets/e1e39a10-1f6f-4770-8e7c-1f588a2ff17a)
 
-
-
-  
 
 This project is an interactive **Power BI dashboard** that visualizes and analyzes the One Day International (ODI) cricket performance of **Virat Kohli**.
 
